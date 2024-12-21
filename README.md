@@ -9,7 +9,7 @@
 - Ex **Android developer** at **LogMyRent**  
 
 ### 📊 Stats :
-[![Badge](https://www.codechef.com/users/yuvraj_coder1)](https://codeforces.com/profile/yuvraj_coder1) [![Codeforces](https://badges.riever.dev/codeforces/yuvraj_coder1.svg)](https://codeforces.com/profile/yuvraj_coder1)
+[![Badge](https://cp-logo.vercel.app/codechef/yuvraj_coder1)](https://codeforces.com/profile/yuvraj_coder1) [![Codeforces](https://badges.riever.dev/codeforces/yuvraj_coder1.svg)](https://codeforces.com/profile/yuvraj_coder1)
 <table align="center">
   <tr>
     <td>
